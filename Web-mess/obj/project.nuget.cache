@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgU3dhQ9jtKFLpYunYAfSKAu7z0ciZY03ANgi35UmL0Xx5c7XjKzkg5DfT1TTobyXDw9mBcAbPHnSPYIIl8BDg==",
+  "dgSpecHash": "cH3jJsYRBiZnAl/elf5TAqSHvwoS2/ImT30rYgq7Akxq+DPNG1VmaNUFTYuZB71J2gF/DL8gQRzteV9c7j7e8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marmel\\source\\repos\\Web-mess\\Web-mess\\Web-mess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Marmel\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
   "logs": []
 }

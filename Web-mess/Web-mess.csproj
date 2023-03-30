@@ -7,4 +7,8 @@
     <RootNamespace>Web_mess</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.2.3" />
+  </ItemGroup>
+
 </Project>

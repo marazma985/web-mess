@@ -14,5 +14,29 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+}
+header {
+    font-size: 2vh;
+    background: #2a2a2a;
+    color: white;
+}
+.main-background {
+    background: #2a2a2a;
+    color: white;
+}
+a {
+    color: #7800ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: white;
+    transition: 0.5s;
+    text-shadow: white 0px 0px 6px;
+}
+.nav-item {
+    margin: 0 15px ;
+}
+.nav-item:first-child {
+    margin: 0 0 0 15px;
 }
